@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnavotka
 - 👀 I’m interested in Software Development and Music Production
-- 🌱 I’m currently learning to be a Cyber Analyst
+- 🌱 Also, I am a Cyber Analyst
 - 📫 How to reach me in my LinkedIn profile https://www.linkedin.com/in/carlos-navotka
 
 <!---
